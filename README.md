@@ -29,6 +29,18 @@ The developed model was engineered using CAD assembly techniques and validated t
 - Contact Region Study
 - Fatigue Tool Assessment
 
+---
+
+## Project Visual Demonstration
+
+### CAD Assembly Model
+![CAD Model](cad_model.png)
+
+### Finite Element Mesh Generation
+![Mesh Result](mesh_result.png)
+
+### Total Deformation Structural Response
+![Total Deformation](total_deformation.png)
 
 ## Files Included
 - Mechanical Structural Report PDF
@@ -52,3 +64,8 @@ The simulated seat mount assembly demonstrated controlled deformation, acceptabl
 ## Author
 Rajat Soni
 B.Tech Mechanical Engineering Student
+
+---
+
+## Repository Highlights
+This repository contains the complete CAD geometry, ANSYS Workbench simulation files, finite element meshed model, engineering report documentation, and structural response visuals used for validating the shock-absorbing seat mount under military loading conditions.
